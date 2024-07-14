@@ -1,0 +1,5 @@
+#Read-in AP Sensing files, 5 minute files
+#Set directory where you want to save the npy nanostrain files
+#Set channel based on set gauge Length: e.g.: gauge length (GL) = 4.9005713 m, for channel 102, GL*channel is ~500m; channel 10 ~49m; channel 100 ~490m; channel 1000 ~4900m; 
+#'res' is the raw DAS das in phase units; read-in, then convert phase to nanostrain with equation in code; RI was fixed by operator
+#numpy arrays are saved as .npy and loaded in next code
