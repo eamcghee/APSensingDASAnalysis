@@ -1,0 +1,7 @@
+Strain_to_StrainRateSpectrogram.py
+
+Load AP Sensing converted nanostrain .npy files and save as a list for indexing 
+For one selected channel only
+Taper and filter
+Convert to strain rate
+Plot Spectrogram
